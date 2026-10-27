@@ -2,6 +2,3 @@
 name = "spinnging_cube"
 version = "0.1.0"
 edition = "2024"
-
-[dependencies]
-unic-emoji-char = "0.9.0"
